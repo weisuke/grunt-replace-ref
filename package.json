@@ -1,0 +1,41 @@
+{
+  "name": "grunt-replace-ref",
+  "description": "Grunt plugin that used to replace file references specified in the",
+  "version": "0.1.0",
+  "homepage": "https://github.com/weisuke/grunt-replace-ref",
+  "author": {
+    "name": "Wei",
+    "email": "wei@classroom.tv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/weisuke/grunt-replace-ref"
+  },
+  "bugs": {
+    "url": "https://github.com/weisuke/grunt-replace-ref/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/weisuke/grunt-replace-ref/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt": "~0.4.2"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}

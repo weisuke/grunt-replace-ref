@@ -22,7 +22,7 @@ var grunt = require('grunt');
     test.ifError(value)
 */
 
-exports.replace_ref = {
+exports.replaceref = {
   setUp: function(done) {
     // setup here if necessary
     done();

@@ -1,7 +1,7 @@
 {
   "name": "grunt-replace-ref",
   "description": "Grunt plugin that used to replace file references specified in the",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/weisuke/grunt-replace-ref",
   "author": {
     "name": "Wei",
